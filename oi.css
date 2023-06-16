@@ -1,0 +1,36 @@
+body{
+
+    background-image: url(20.jpg);
+    background-position: fixed;
+    background-size: cover;
+    color: #ffffff;
+}
+
+a{
+    float: left;
+    color: #ffffff;
+    font-size: 25px;
+    padding: 7px;
+    text-decoration: none;
+    border: 2px solid #ffffff;
+    border-radius: 20px;
+}
+
+a:hover{
+  background:#ffffff ;
+  color: #e7ab05;
+}
+
+span {
+
+    float: left;
+    color: #e7ab05;
+    font-size: 20px;
+    padding: 5px;
+    text-decoration: none;
+    border: 2px solid #ffffff;
+    border-radius: 15px;
+}
+p{
+    font-size: 25px;
+}

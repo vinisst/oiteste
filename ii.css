@@ -1,0 +1,32 @@
+body{
+    color: #ffffff;
+    background-image: url(20.jpg);
+    }
+
+    #menu{
+        float: center;
+        color: #ffffff;
+        font-size: 25px;
+        padding: 7px;
+        text-decoration: none;
+        border: 2px solid #ffffff;
+        border-radius: 20px;
+    }
+    
+    #menu:hover{
+      background:#ffffff ;
+      color: #e7ab05;
+    }
+    
+
+    input{
+
+        background: transparent;
+    
+    }
+
+    ::placeholder{
+
+        color: #ffffff;
+        font-weight: bold;
+    }
